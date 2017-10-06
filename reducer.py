@@ -1,7 +1,5 @@
 def reducer():
 
-import sys
-
 salesTotal = 0
 oldKey = None
 

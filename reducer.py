@@ -1,3 +1,5 @@
+def reducer():
+
 import sys
 
 salesTotal = 0
